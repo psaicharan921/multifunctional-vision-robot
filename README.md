@@ -1,5 +1,5 @@
 # multifunctional-vision-robot
-Evi is an autonomous rescue robot using SLAM and AMCL for real-time navigation in disaster zones. Built with ROS, Raspberry Pi, and Teensy 3.2, it performs mapping and obstacle avoidance with high accuracy using LIDAR, IR sensors, and PID motor control.
+Simulated a multifunctional robot integrating object tracking, road sign recognition, leader-follower, and CNN-based self-driving. Developed and trained a CNN for steering control using Udacity simulator and deployed in Webots for real-time navigation.
 
 # 🤖 Mini-Simulation of Autonomous Multifunctional Mobile Robot Using Machine Vision
 
